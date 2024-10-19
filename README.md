@@ -12,9 +12,13 @@ The dataset consists of 300 samples of handwritten Vietnamese letters which belo
 ### Feature Extraction
 1. Pixel Features
 ### Model Selection
-1. Nearest Neighbor Classifier
-2. Logistic Regression
-3. Neural Networks
+1. K-Nearest Neighbor Classifier
+2. Naive Bayes
+3. Multinomial Logistic Regression
+4. Decision Tree
+5. Random Forest
+6. Support Vector Machines
+7. Neural Networks
 ### Model Performance
 1. Confusion Matrix
 2. ROC-AUC
