@@ -15,12 +15,8 @@ The dataset consists of 300 samples of handwritten Vietnamese letters which belo
 1. K-Nearest Neighbor Classifier
 2. Naive Bayes
 3. Multinomial Logistic Regression
-4. Decision Tree
-5. Random Forest
-6. Support Vector Machines
 7. Neural Networks
-### Model Performance
-1. Confusion Matrix
-2. ROC-AUC
-### Discussion & Limitations
-
+## Pipeline 2: Classify variations of 12 letters - A, Ă, Â, D, Đ, E, Ê, O, Ô, Ơ, U, Ư
+The second pipeline implemented Convolutional Neural Networks (CNNs) and Transfer Learning (MobileNet, ResNet18, VGG-16)
+## Pipeline 3: Generate 12 letters - A, Ă, Â, D, Đ, E, Ê, O, Ô, Ơ, U, Ư
+The final pipeline implemented different types of autoencoders to create the letters
